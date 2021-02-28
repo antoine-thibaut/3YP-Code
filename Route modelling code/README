@@ -1,1 +1,11 @@
 This folder contains code used for route modelling for the Green Hydrogen Public Mobility Project. A title and description for each code is shown below.
+. Database.py: This is a dataframe containing information on Oxford bus routes
+. Gallons.py: This code estimates the gallons of diesel used by buses in Oxford. The code does not distinguish between weekends and weekdays.
+. codeforcompiled.py: This contains code for creating a diagram of how bus consumptions compare in Oxford
+. codeforindividual.py: This contains code for creating a diagram showing how much a single bus route consumes diesel in Oxford
+. dataframe_distance_weekend.py: This code contains a dataframe for bus routes in weekends
+. emissions_weekend.py: This code estimates how much CO2 different bus routes emit on weekends
+. gallons_weekday.py: This code estimates how many gallons of diesel each bus route in Oxford consumes on a weekday
+. gallons_weekend.py: This code estimates how many gallons of diesel each bus route in Oxford consumes on a weekend
+. hydrogen_estimate_weekend.py: This code estiamtes how much equivalent hydrogen would be required by different bus routes on a weekend
+. individual_bus_plots_weekend.py:T his code estiamtes how much equivalent hydrogen would be required by a single bus route on a weekend
