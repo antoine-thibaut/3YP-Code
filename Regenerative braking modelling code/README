@@ -1,5 +1,5 @@
 This folder contains code used for regenerative braking modelling for the Green Hydrogen Public Mobility Project. A title and description for each code is shown below.
-codeforregeneration.py: This contains code for modelling regenerative braking on a single bus route (bus 5)
-codeforregeneration_parkandrides.py: This contains code for modelling regenerative braking on Oxford Park and Rides. This code is does not distinguish between weekdays and weekends.
-regeneration_parkandrides_weekday.py: This contains code for modelling regenerative braking on Oxford Park and Rides on weekdays.
-regeneration_parkandrides_weekend.py: This contains code for modelling regenerative braking on Oxford Park and Rides on weekends.
+. codeforregeneration.py: This contains code for modelling regenerative braking on a single bus route (bus 5)
+. codeforregeneration_parkandrides.py: This contains code for modelling regenerative braking on Oxford Park and Rides. This code is does not distinguish between weekdays and weekends.
+. regeneration_parkandrides_weekday.py: This contains code for modelling regenerative braking on Oxford Park and Rides on weekdays.
+. regeneration_parkandrides_weekend.py: This contains code for modelling regenerative braking on Oxford Park and Rides on weekends.
