@@ -3,3 +3,4 @@ This folder contains code used for regenerative braking modelling for the Green 
 . codeforregeneration_parkandrides.py: This contains code for modelling regenerative braking on Oxford Park and Rides. This code is does not distinguish between weekdays and weekends.
 . regeneration_parkandrides_weekday.py: This contains code for modelling regenerative braking on Oxford Park and Rides on weekdays.
 . regeneration_parkandrides_weekend.py: This contains code for modelling regenerative braking on Oxford Park and Rides on weekends.
+. regenerative_model.py: This contains compiled code for weekdays and weekends for modelling regnerative braking on Oxford Park and Rides.
