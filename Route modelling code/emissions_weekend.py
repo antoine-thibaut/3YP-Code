@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 21 14:47:17 2021
-
-@author: Antoine
-"""
-  
 # Code to calculate emission data for bus routes
 # by Akshay
 import numpy as np
