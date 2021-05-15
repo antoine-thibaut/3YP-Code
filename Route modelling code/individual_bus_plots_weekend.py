@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-@author: Antoine + Akshay
-"""
+# Akshay Pal and Antoine Thibaut have both contributed to this code
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
