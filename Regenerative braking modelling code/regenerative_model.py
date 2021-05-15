@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  4 11:16:41 2021
-
-@author: Antoine
-"""
-
 # NOTE: This code borrows a similar code structure code used for route modelling
 
 # References:
