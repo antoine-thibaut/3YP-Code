@@ -1,17 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 23 11:13:38 2020
-
-@author: Antoine
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 21 10:13:20 2020
-@author: Antoine + Akshay
-"""
+# Bar chart code has been borrowed from: https://matplotlib.org/2.0.2/examples/pylab_examples/barchart_demo.html
+# Akshay Pal and Antoine Thibaut have both contributed to this code
 
 import numpy as np
 import pandas as pd
