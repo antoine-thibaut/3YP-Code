@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 29 17:25:40 2021
-
-@author: Antoine
-"""
-
 # NOTE: This code has all been copied from a source:
 # https://github.com/industrial-ucn/jupyter-examples/blob/master/optimization/cvrp-gurobi.ipynb
 
