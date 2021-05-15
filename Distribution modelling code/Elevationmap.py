@@ -1,13 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 14 09:26:40 2021
+# NOTE: MUCH CODE WAS TAKEN FROM:
+# https://towardsdatascience.com/plotting-regional-topographic-maps-from-scratch-in-python-8452fd770d9d
 
-@author: Antoine
-
-NOTE: MUCH CODE WAS TAKEN FROM:
-    https://towardsdatascience.com/plotting-regional-topographic-maps-from-scratch-in-python-8452fd770d9d
-"""
 
 import numpy as np
 from scipy.interpolate import griddata
