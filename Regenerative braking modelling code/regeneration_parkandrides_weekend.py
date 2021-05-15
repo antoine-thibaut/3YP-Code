@@ -1,4 +1,5 @@
 # Note: weekend values are used 
+# NOTE: This code borrows a similar code structure code used for route modelling
 
 import numpy as np
 import pandas as pd
