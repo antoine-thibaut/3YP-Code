@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 23 11:13:38 2020
-
-@author: Antoine
-"""
-
 # Note: Weekday values are used 
 
 import numpy as np
