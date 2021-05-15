@@ -1,12 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May  2 17:21:20 2021
-
-@author: Antoine
-"""
-
-# Note: This code borrows some code and structuring which was used by Akshay Pal in route modelling
+# Note: This code borrows some code and structuring which was used in route modelling
+# Bar chart code was borrowed from: https://matplotlib.org/2.0.2/examples/pylab_examples/barchart_demo.html
 
 import numpy as np
 import pandas as pd
