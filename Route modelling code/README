@@ -8,4 +8,5 @@ This folder contains code used for route modelling for the Green Hydrogen Public
 . gallons_weekday.py: This code estimates how many gallons of diesel each bus route in Oxford consumes on a weekday
 . gallons_weekend.py: This code estimates how many gallons of diesel each bus route in Oxford consumes on a weekend
 . hydrogen_estimate_weekend.py: This code estiamtes how much equivalent hydrogen would be required by different bus routes on a weekend
-. individual_bus_plots_weekend.py:T his code estiamtes how much equivalent hydrogen would be required by a single bus route on a weekend
+. individual_bus_plots_weekend.py: This code estiamtes how much equivalent hydrogen would be required by a single bus route on a weekend
+. range_model_updated.py: This code estimates the range covered by Park and Ride routes in a single day
