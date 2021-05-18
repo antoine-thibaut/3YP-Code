@@ -1,0 +1,2 @@
+This folder contains code used for price modelling for the Green Hydrogen Public Mobility Project. A title and description for each code is shown below.
+. price_model_updated.py: . This contains updated code used for extrapolating the prices of diesel and hybrid buses to 2040.
