@@ -5,3 +5,4 @@ This folder contains code used for regenerative braking modelling for the Green 
 . regeneration_parkandrides_weekend.py: This contains code for modelling regenerative braking on Oxford Park and Rides on weekends.
 . regenerative_model.py: This contains compiled code for weekdays and weekends for modelling regnerative braking on Oxford Park and Rides.
 . regenerative_model_updated.py: This code is an updated version of regenerative_model.py. The code applies a recovery efficiency of 70% to descents as well as for when the bus comes to a full stop.
+. topography_map_updated.py: This code generates a topography map with superimposed Park and Ride routes. The code used was borrowed from https://towardsdatascience.com/plotting-regional-topographic-maps-from-scratch-in-python-8452fd770d9d  
